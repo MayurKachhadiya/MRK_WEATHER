@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MRK_WEATHER/static/css/main.eceb93e2.css",
+    "main.js": "/MRK_WEATHER/static/js/main.047094de.js",
+    "static/js/787.13d76ca7.chunk.js": "/MRK_WEATHER/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/MRK_WEATHER/index.html",
+    "main.eceb93e2.css.map": "/MRK_WEATHER/static/css/main.eceb93e2.css.map",
+    "main.047094de.js.map": "/MRK_WEATHER/static/js/main.047094de.js.map",
+    "787.13d76ca7.chunk.js.map": "/MRK_WEATHER/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eceb93e2.css",
+    "static/js/main.047094de.js"
+  ]
+}
